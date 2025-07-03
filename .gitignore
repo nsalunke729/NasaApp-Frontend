@@ -1,0 +1,29 @@
+# Root
+node_modules/
+.env
+.DS_Store
+*.log
+.vs/
+.vscode/
+
+# Frontend
+/node_modules/
+/.env
+/dist/
+/build/
+/*.log
+/.cache/
+/.DS_Store
+
+# IDE settings
+/frontend-NasaApp/.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS-specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
