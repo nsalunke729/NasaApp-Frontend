@@ -3,7 +3,6 @@ import axios from 'axios';
 
 const ApodViewer = () => {
     const [apod, setApod] = useState(null);
-    const [date, setDate] = useState('');
     const [searchDate, setSearchDate] = useState('');
 
     useEffect(() => {

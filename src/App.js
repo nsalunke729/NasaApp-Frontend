@@ -1,4 +1,4 @@
-﻿// src/App.js
+// src/App.js
 import React, { useState, Suspense, lazy } from 'react';
 import { Rocket } from 'lucide-react';
 import 'bootstrap/dist/css/bootstrap.min.css';
